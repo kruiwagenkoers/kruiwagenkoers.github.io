@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kruiwagenkoers",
-    "currentPage": "pkk 2018.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -405,7 +405,7 @@
                 "contentAlign": "center",
                 "text": "VERSIER JE KRUIWAGEN EN DOE MEE MET POTJÈRKRUIWAGENKOERS TE RAMSEL!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
-                "overlayOpacity": "0.6"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dji-6-2000x994.jpg",
@@ -423,7 +423,7 @@
                 "contentAlign": "center",
                 "text": "Al 37 jaar lang wordt er in Ramsel de Potjèrkruiwagenkoers georganiseerd, een originele kruiwagenrace waarbij de deelnemers zo snel mogelijk een parcours moeten afleggen met allerlei leuke hindernissen en proeven.\n<br>Ook dit jaar zijn wij weer van de partij en belooft het een dag vol entertainment te worden. De koers gaat door op 30 mei 2019 te Ramsel. Op de website vind je meer praktische informatie (o.a. parcours en wedstrijdreglement) en een overzicht van onze sponsors.\n<br>Heb je achteraf nog vragen of wil je meer informatie? Neem dan zeker contact op via de contactpagina. Wij vertellen je dan graag meer!",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dji-103-2000x1000.jpg",
@@ -441,7 +441,7 @@
                 "contentAlign": "center",
                 "text": "Naar aanleiding van de eerste editie van Parijs-Dakar organiseerden een groep vrienden in 1979 een eigen koers in Ramsel: de Potjèrkruiwagenrace! In tegenstelling tot de bekende autorally werd er in Ramsel echter niet met wagens om de eerste plaats gestreden, maar wel met kruiwagens. De Potjèrkruiwagenkoers is immers een race waarbij men met een verbouwde kruiwagen een parcours met hindernissen en proeven moet afleggen.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">VOOR MAC</a>",
-                "overlayOpacity": "0.7"
+                "overlayOpacity": "0.3"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/-dsc4776-2000x1331.jpg",
