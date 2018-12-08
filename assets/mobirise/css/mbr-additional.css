@@ -5611,15 +5611,18 @@ body {
 .cid-rbFchwEJeG {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #181515;
 }
 .cid-rbFchwEJeG .mbr-section-subtitle {
   color: #767676;
 }
+.cid-rbFchwEJeG H2 {
+  color: #efefef;
+}
 .cid-rbFceqkHm1 {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #181515;
 }
 .cid-rbFceqkHm1 .content-slider {
   display: -webkit-flex;
