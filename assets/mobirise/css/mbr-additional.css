@@ -1661,6 +1661,32 @@ body {
 .cid-r9Y1fjg7Ge .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-rbG2tXa1ca {
+  background: #181515;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rbG2tXa1ca .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rbG2tXa1ca .video-block {
+    width: 100% !important;
+  }
+}
+.cid-rbG2j9tGP1 {
+  background: #181515;
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+.cid-rbG2j9tGP1 .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rbG2j9tGP1 .video-block {
+    width: 100% !important;
+  }
+}
 .cid-rbEMhqVdt6 {
   padding-top: 90px;
   padding-bottom: 90px;
